@@ -1,22 +1,25 @@
 # Prototipo-e-MVP
 
-Nome do App 
-ImagineEvents
+<div align="center">
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/a8f979b4-7624-4039-90a6-49f31e904263" width="400px" height="300px"/>
+</div>
 
 Nome dos integrantes
  - Guilherme Gasperini Valente
  - Jeferson Ayres Araujo
 
-descrição: 
+<div align="justify">
+Descrição: 
  Este projeto tem como objetivo ser uma homenagem aos 470 anos da nossa cidade de São Paulo
 uma cidade linda e com várias culturas em sua população, vários locais e eventos para conhecer.
 esse app tem como objetivo apenas mostrar os eventos, mostrando local, data, e avaliações.
-</h1>
+</div>
+<h1></h1>
 
  IMAGEM DAS 4 TELAS
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/894f4045-8879-49ae-a87f-779a1cfeff6c" width="0px" />
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/894f4045-8879-49ae-a87f-779a1cfeff6c" width="700px" height="400px"/>
 </div>
 
 
@@ -25,16 +28,19 @@ esse app tem como objetivo apenas mostrar os eventos, mostrando local, data, e a
 	IMAGEM
 
 Na tela de inico terá 7 Buttons sendo 4 teles somente para os eventos e 3 telas sendo para a pesquisa, Home e Perfil.
-
 Nestá tela também terá alguns texts para poder inserir a descrição dos eventos e o nome dos eventos.
+
 
  Tela 2 (Página do Evento)
 
-	IMAGEM
-
+	Tel
+ 
+<div align="justify">
 Nesta tela terá 3 imagens e 3 texts um para colocar o nome do local e outro para poder colocar uma descrição um pouco mais detalhada,
 também terá um text para colocar a data, e um único Button para o usuário clicar e ser levado a página do próprio evento e por fim 
 vai ter um Button para voltar.
+</div>
+
 
 
  Tela 3 (Página de Pesquisa)
@@ -53,10 +59,5 @@ Nesta página terá 1 conteiner, 3 edit text, 1 Button, 1 text e uma imagem do P
 Começando pelo Conteiner, ele será branco e ficara na parte do fundo da página;
 As edits texts seram para colocar o Usuário, Senha e Gmail;
 O único Button será para colocar o cadastro;
-
-
 E a imagem será apenas para a Imagem mesmo;
-![Imagem das 4 telas](https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/894f4045-8879-49ae-a87f-779a1cfeff6c)
-<div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/894f4045-8879-49ae-a87f-779a1cfeff6c" width="0px" />
-</div>
+
