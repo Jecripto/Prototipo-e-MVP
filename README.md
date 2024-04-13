@@ -1,4 +1,4 @@
-# Prototipo-e-MVP
+# Prototipo-MVP
 
 <div align="center">
 <img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/a8f979b4-7624-4039-90a6-49f31e904263" width="400px" height="300px"/>
