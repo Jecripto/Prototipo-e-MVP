@@ -1,7 +1,7 @@
 # Prototipo-MVP
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/a8f979b4-7624-4039-90a6-49f31e904263" width="400px" height="300px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/d1d71c7c-be83-48e1-aa33-a452e897e7ec" width="400px" height="300px"/>
 </div>
 
 Nome dos integrantes
@@ -27,7 +27,7 @@ esse app tem como objetivo apenas mostrar os eventos, mostrando local, data, e a
  <h2>Tela 1 (Página de Início)</h2>
  
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/83bf64a2-1804-4c34-b942-d913c13f14eb" width="500px" height="600px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/83bf64a2-1804-4c34-b942-d913c13f14eb" width="400px" height="600px"/>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ Nestá tela também terá alguns texts para poder inserir a descrição dos even
  <h2>Tela 2 (Página do Evento)</h2>
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/19ed01fd-5b9f-498d-8d58-3422f75245fb" width="500px" height="600px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/19ed01fd-5b9f-498d-8d58-3422f75245fb" width="400px" height="600px"/>
 </div>
 
  <br>
@@ -56,7 +56,7 @@ vai ter um Button para voltar.
 
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/799a2257-f3a9-47b9-a832-6db642e30ff6" width="500px" height="600px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/799a2257-f3a9-47b9-a832-6db642e30ff6" width="400px" height="600px"/>
 </div>
 
 <br>
@@ -71,7 +71,7 @@ nesta barra de pesquisa será onde o usuário poderá pesquisar sobre algum even
 <h2>Tela 4 (Página de Cadastro)</h2>
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/61653951-4fb8-4b5c-b962-09fb1881766e" width="500px" height="600px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/61653951-4fb8-4b5c-b962-09fb1881766e" width="400px" height="600px"/>
 </div>
 
 <br>
@@ -85,7 +85,7 @@ Nesta página terá 1 conteiner, 3 edit text, 1 Button, 1 text e uma imagem do P
 <h2>Tela 5 (Página de Login)</h2>
 
 <div align="center">
-<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/121a0d45-58c0-4da9-a77d-bc7c9ed7618a" width="500px" height="600px"/>
+<img src="https://github.com/Jecripto/Prototipo-e-MVP/assets/128049926/121a0d45-58c0-4da9-a77d-bc7c9ed7618a" width="400px" height="600px"/>
 </div>
 
 <br>
@@ -98,5 +98,7 @@ porém agora com o objetivo de efetuar o login do cliente:
 - A imagem será apenas alocada a essa página
 
 
-
-
+<h1>Referências</h1>
+ https://www.canva.com/design/DAGAy2cOZDI/EAX5y4JieBhA3qQzmgd6QQ/edit?utm_content=DAGAy2cOZDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ <br><br>
+ https://www.canva.com/design/DAGCNvqgXoo/iwRi9H2l6f_9HL25IH5a4w/edit?utm_content=DAGCNvqgXoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
